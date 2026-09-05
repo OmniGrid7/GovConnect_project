@@ -1,0 +1,1173 @@
+{
+  "state": "Maharashtra",
+  "country": "India",
+  "dataset_title": "Maharashtra Government Websites and Digital Portals",
+  "source": "Integrated Government Online Directory (IGOD), Government of India / NIC",
+  "source_url": "https://igod.gov.in/sg/MH/categories",
+  "last_verified": "2026-09-04",
+  "scope_note": "This file contains records collected from the Maharashtra categories exposed by IGOD during this research pass. IGOD currently reports 42 departments, 24 directorates/commissionerates, 38 boards/undertakings, 7 statutory/autonomous bodies, 7 PSUs/JVs/companies/societies, 55 academies/institutions, 18 schemes/programmes/missions/applications, 71 others, and 36 districts. Some IGOD entries do not expose a separate URL; these are retained with url=null rather than inventing a link.",
+  "records": [
+    {
+      "name": "Official Portal of Maharashtra Government",
+      "url": "https://www.maharashtra.gov.in/",
+      "description": "Official state government portal and gateway to Maharashtra government information and services.",
+      "department": "Government of Maharashtra",
+      "category": "State Portal"
+    },
+    {
+      "name": "Agriculture Department, Maharashtra",
+      "url": "https://krishi.maharashtra.gov.in/",
+      "description": "Agriculture policy, farmer welfare, agricultural development and related services.",
+      "department": "Agriculture Department",
+      "category": "Department"
+    },
+    {
+      "name": "Animal Husbandry Department, Maharashtra",
+      "url": "https://dahd.maharashtra.gov.in/",
+      "description": "Livestock development, animal health and veterinary services.",
+      "department": "Animal Husbandry Department",
+      "category": "Department"
+    },
+    {
+      "name": "Co-operation, Marketing and Textiles Department, Maharashtra",
+      "url": "https://mahatextile.maharashtra.gov.in/",
+      "description": "Co-operative sector, agricultural marketing and textile administration.",
+      "department": "Co-operation, Marketing and Textiles Department",
+      "category": "Department"
+    },
+    {
+      "name": "Cultural Affairs Department, Maharashtra",
+      "url": "https://cultural.maharashtra.gov.in/",
+      "description": "Culture, arts, heritage and cultural administration.",
+      "department": "Cultural Affairs Department",
+      "category": "Department"
+    },
+    {
+      "name": "Dairy Development Department, Maharashtra",
+      "url": "https://dairy.maharashtra.gov.in/",
+      "description": "Dairy development, milk production and dairy-sector programmes.",
+      "department": "Dairy Development Department",
+      "category": "Department"
+    },
+    {
+      "name": "Environment and Climate Change Department, Maharashtra",
+      "url": "https://envd.maharashtra.gov.in/",
+      "description": "Environmental protection, climate policy and sustainability programmes.",
+      "department": "Environment and Climate Change Department",
+      "category": "Department"
+    },
+    {
+      "name": "Finance Department, Maharashtra",
+      "url": "https://finance.maharashtra.gov.in/",
+      "description": "State budget, public expenditure, financial policy and treasury matters.",
+      "department": "Finance Department",
+      "category": "Department"
+    },
+    {
+      "name": "Fisheries Department, Maharashtra",
+      "url": "https://fisheries.maharashtra.gov.in/",
+      "description": "Fisheries, aquaculture and development of fishing communities.",
+      "department": "Fisheries Department",
+      "category": "Department"
+    },
+    {
+      "name": "Food, Civil Supplies and Consumer Protection Department, Maharashtra",
+      "url": "https://mahafood.gov.in/",
+      "description": "Public distribution, rationing, essential commodities and consumer protection.",
+      "department": "Food, Civil Supplies and Consumer Protection Department",
+      "category": "Department"
+    },
+    {
+      "name": "Forest Department, Maharashtra",
+      "url": "https://mahaforest.gov.in/",
+      "description": "Forest conservation, wildlife, biodiversity and forest management.",
+      "department": "Forest Department",
+      "category": "Department"
+    },
+    {
+      "name": "General Administration Department, Maharashtra",
+      "url": "https://gad.maharashtra.gov.in/",
+      "description": "General administration, personnel and administrative coordination.",
+      "department": "General Administration Department",
+      "category": "Department"
+    },
+    {
+      "name": "Goods and Services Tax Department, Maharashtra",
+      "url": "https://mahagst.gov.in/",
+      "description": "GST registration, taxation administration, compliance and taxpayer services.",
+      "department": "Goods and Services Tax Department",
+      "category": "Department"
+    },
+    {
+      "name": "Greater Mumbai Police, Maharashtra",
+      "url": "https://mumbaipolice.gov.in/",
+      "description": "Policing, public safety, complaints and citizen police services in Mumbai.",
+      "department": "Home Department",
+      "category": "Department"
+    },
+    {
+      "name": "Higher and Technical Education Department, Maharashtra",
+      "url": "https://htedu.maharashtra.gov.in/",
+      "description": "Higher and technical education policy and administration.",
+      "department": "Higher and Technical Education Department",
+      "category": "Department"
+    },
+    {
+      "name": "Home Department, Maharashtra",
+      "url": "https://home.maharashtra.gov.in/",
+      "description": "Internal security, police, prisons and related administration.",
+      "department": "Home Department",
+      "category": "Department"
+    },
+    {
+      "name": "Housing Department, Maharashtra",
+      "url": "https://housing.maharashtra.gov.in/",
+      "description": "Housing policy, affordable housing and housing-sector administration.",
+      "department": "Housing Department",
+      "category": "Department"
+    },
+    {
+      "name": "Labour Department, Maharashtra",
+      "url": "https://mahakamgar.maharashtra.gov.in/",
+      "description": "Labour laws, worker welfare and employment-related administration.",
+      "department": "Labour Department",
+      "category": "Department"
+    },
+    {
+      "name": "Law and Judiciary Department, Maharashtra",
+      "url": "https://lj.maharashtra.gov.in/",
+      "description": "State legislation, legal affairs and judicial administration.",
+      "department": "Law and Judiciary Department",
+      "category": "Department"
+    },
+    {
+      "name": "Maharashtra Cyber Department",
+      "url": "https://mhcyber.gov.in/",
+      "description": "Cybercrime prevention, investigation and cyber-security activities.",
+      "department": "Home Department",
+      "category": "Department"
+    },
+    {
+      "name": "Marathi Language Department, Maharashtra",
+      "url": "https://marathi.gov.in/",
+      "description": "Promotion, development and official use of Marathi language.",
+      "department": "Marathi Language Department",
+      "category": "Department"
+    },
+    {
+      "name": "Medical Education and Drugs Department, Maharashtra",
+      "url": "https://medical.maharashtra.gov.in/",
+      "description": "Medical education, medical institutions and drug-related administration.",
+      "department": "Medical Education and Drugs Department",
+      "category": "Department"
+    },
+    {
+      "name": "Minority Development Department, Maharashtra",
+      "url": "https://mdd.maharashtra.gov.in/",
+      "description": "Development and welfare programmes for minority communities.",
+      "department": "Minority Development Department",
+      "category": "Department"
+    },
+    {
+      "name": "Motor Vehicles Department (R.T.O.), Maharashtra",
+      "url": "https://transport.maharashtra.gov.in/",
+      "description": "Driving licences, vehicle registration, permits and transport regulation.",
+      "department": "Motor Vehicles Department",
+      "category": "Department"
+    },
+    {
+      "name": "Other Backward Bahujan Welfare Department, Maharashtra",
+      "url": null,
+      "description": "Welfare and development programmes administered for eligible communities.",
+      "department": "Other Backward Bahujan Welfare Department",
+      "category": "Department"
+    },
+    {
+      "name": "Parliamentary Affairs Department, Maharashtra",
+      "url": "https://pa.maharashtra.gov.in/",
+      "description": "Parliamentary coordination and government legislative business.",
+      "department": "Parliamentary Affairs Department",
+      "category": "Department"
+    },
+    {
+      "name": "Anti Corruption Bureau, Maharashtra",
+      "url": "https://www.acbmaharashtra.gov.in/",
+      "description": "Prevention and investigation of corruption-related offences in Maharashtra government.",
+      "department": "Home Department",
+      "category": "Attached / Subordinated Office"
+    },
+    {
+      "name": "Legal Metrology Organization, Maharashtra",
+      "url": "https://legalmetrology.maharashtra.gov.in/",
+      "description": "Regulates weights, measures and related consumer-protection requirements.",
+      "department": "Food, Civil Supplies and Consumer Protection Department",
+      "category": "Attached / Subordinated Office"
+    },
+    {
+      "name": "Maharashtra State Police Wireless, Pune",
+      "url": "https://mahpolwireless.gov.in/",
+      "description": "Police communication and wireless infrastructure.",
+      "department": "Home Department",
+      "category": "Attached / Subordinated Office"
+    },
+    {
+      "name": "Police Commissionerate, Chhatrapati Sambhajinagar",
+      "url": "https://aurangabadcitypolice.gov.in/",
+      "description": "City policing and public safety services for Chhatrapati Sambhajinagar.",
+      "department": "Home Department",
+      "category": "Attached / Subordinated Office"
+    },
+    {
+      "name": "Joint Director Technical Education, Chhatrapati Sambhajinagar",
+      "url": null,
+      "description": "Regional technical-education administration.",
+      "department": "Higher and Technical Education Department",
+      "category": "Attached / Subordinated Office"
+    },
+    {
+      "name": "Maharashtra Electricity Regulatory Commission",
+      "url": "https://www.merc.gov.in/",
+      "description": "Regulates electricity-sector activities and tariffs in Maharashtra.",
+      "department": "Energy Department",
+      "category": "Commission / Committee"
+    },
+    {
+      "name": "Maharashtra State Human Rights Commission",
+      "url": "https://www.mshrc.gov.in/",
+      "description": "Protects and promotes human rights within Maharashtra.",
+      "department": "Government of Maharashtra",
+      "category": "Commission / Committee"
+    },
+    {
+      "name": "Maharashtra State Information Commission",
+      "url": "https://sic.maharashtra.gov.in/",
+      "description": "Handles appeals and complaints under the Right to Information framework.",
+      "department": "General Administration Department",
+      "category": "Commission / Committee"
+    },
+    {
+      "name": "Rajiv Gandhi Science & Technology Commission, Maharashtra",
+      "url": "https://rgstc.maharashtra.gov.in/",
+      "description": "Promotes science, technology and innovation initiatives in Maharashtra.",
+      "department": "Government of Maharashtra",
+      "category": "Commission / Committee"
+    },
+    {
+      "name": "Kundal Academy of Development, Administration and Management (Forests)",
+      "url": "https://www.kundalforestacademy.gov.in/",
+      "description": "Training and capacity development related to forest administration.",
+      "department": "Forest Department",
+      "category": "Statutory / Autonomous Body"
+    },
+    {
+      "name": "Maharashtra Medical Council, Mumbai",
+      "url": "https://www.maharashtramedicalcouncil.in/",
+      "description": "Medical registration and professional regulation in Maharashtra.",
+      "department": "Medical Education and Drugs Department",
+      "category": "Statutory / Autonomous Body"
+    },
+    {
+      "name": "Maharashtra Police Academy, Nashik",
+      "url": "https://mpanashik.gov.in/",
+      "description": "Police training and professional development.",
+      "department": "Home Department",
+      "category": "Statutory / Autonomous Body"
+    },
+    {
+      "name": "Maharashtra Public Service Commission (MPSC)",
+      "url": null,
+      "description": "State public-service recruitment and competitive examinations.",
+      "department": "General Administration Department",
+      "category": "Statutory / Autonomous Body"
+    },
+    {
+      "name": "Maharashtra Remote Sensing Application Centre (MRSAC)",
+      "url": "https://mrsac.gov.in/",
+      "description": "Remote sensing and geospatial applications supporting government planning.",
+      "department": "Planning / Government of Maharashtra",
+      "category": "Statutory / Autonomous Body"
+    },
+    {
+      "name": "Marathwada Statutory Development Board, Aurangabad",
+      "url": null,
+      "description": "Regional development planning and monitoring for Marathwada.",
+      "department": "Planning Department",
+      "category": "Statutory / Autonomous Body"
+    },
+    {
+      "name": "Water and Land Management Institute (WALMI), Aurangabad",
+      "url": null,
+      "description": "Training and capacity development in water and land management.",
+      "department": "Water Resources Department",
+      "category": "Statutory / Autonomous Body"
+    },
+    {
+      "name": "Charity Commissioner, Maharashtra",
+      "url": "https://charity.maharashtra.gov.in/",
+      "description": "Administration and regulatory oversight of public charitable trusts.",
+      "department": "Law and Judiciary Department",
+      "category": "Directorate / Commissionerate"
+    },
+    {
+      "name": "Commissioner for Cooperation and Registrar, Cooperative Societies, Pune",
+      "url": "https://sahakarayukta.maharashtra.gov.in/",
+      "description": "Registration, regulation and administration of cooperative societies.",
+      "department": "Co-operation Department",
+      "category": "Directorate / Commissionerate"
+    },
+    {
+      "name": "Commissionerate of Skill Development, Employment & Entrepreneurship",
+      "url": "https://rojgar.mahaswayam.gov.in/",
+      "description": "Employment, skill development, career and entrepreneurship services.",
+      "department": "Skills, Employment, Entrepreneurship and Innovation Department",
+      "category": "Directorate / Commissionerate"
+    },
+    {
+      "name": "Controller of Rationing & Director of Civil Supplies, Mumbai",
+      "url": "https://controllerofrationing-mumbai.gov.in/",
+      "description": "Rationing and civil-supplies administration in Mumbai.",
+      "department": "Food, Civil Supplies and Consumer Protection Department",
+      "category": "Directorate / Commissionerate"
+    },
+    {
+      "name": "Director General, Geology and Mining, Nagpur",
+      "url": "https://mahadgm.gov.in/",
+      "description": "Geology, mineral resources and mining administration.",
+      "department": "Revenue Department",
+      "category": "Directorate / Commissionerate"
+    },
+    {
+      "name": "Directorate General of Information and Public Relations, Maharashtra",
+      "url": "https://dgipr.maharashtra.gov.in/",
+      "description": "Government publicity, media relations and public information.",
+      "department": "General Administration Department",
+      "category": "Directorate / Commissionerate"
+    },
+    {
+      "name": "Directorate of Accounts and Treasuries, Maharashtra",
+      "url": "https://mahakosh.maharashtra.gov.in/",
+      "description": "Treasury, accounts and state financial management systems.",
+      "department": "Finance Department",
+      "category": "Directorate / Commissionerate"
+    },
+    {
+      "name": "Directorate of Ayurveda, Maharashtra",
+      "url": null,
+      "description": "Administration and development of Ayurveda services.",
+      "department": "Public Health / AYUSH administration",
+      "category": "Directorate / Commissionerate"
+    },
+    {
+      "name": "Directorate of Economics and Statistics, Maharashtra",
+      "url": "https://mahades.maharashtra.gov.in/",
+      "description": "State statistics, economic data and statistical analysis.",
+      "department": "Planning Department",
+      "category": "Directorate / Commissionerate"
+    },
+    {
+      "name": "Directorate of Information Technology, Maharashtra",
+      "url": "https://it.maharashtra.gov.in/",
+      "description": "State information technology, digital-government and IT initiatives.",
+      "department": "Electronics, Information Technology and Artificial Intelligence Department",
+      "category": "Directorate / Commissionerate"
+    },
+    {
+      "name": "Directorate of Libraries, Maharashtra",
+      "url": null,
+      "description": "Administration and development of public libraries.",
+      "department": "Higher and Technical Education Department",
+      "category": "Directorate / Commissionerate"
+    },
+    {
+      "name": "Directorate of Local Fund Accounts Audit, Maharashtra",
+      "url": null,
+      "description": "Audit of local government and local-fund accounts.",
+      "department": "Finance Department",
+      "category": "Directorate / Commissionerate"
+    },
+    {
+      "name": "Directorate of Medical Education & Research, Mumbai",
+      "url": "https://dmer.maharashtra.gov.in/",
+      "description": "Medical education, training and government medical institutions.",
+      "department": "Medical Education and Drugs Department",
+      "category": "Directorate / Commissionerate"
+    },
+    {
+      "name": "Directorate of Silk, Maharashtra",
+      "url": "https://mahasilk.maharashtra.gov.in/",
+      "description": "Silk production and sericulture development.",
+      "department": "Co-operation, Marketing and Textiles Department",
+      "category": "Directorate / Commissionerate"
+    },
+    {
+      "name": "Directorate of State Gazetteers, Maharashtra",
+      "url": null,
+      "description": "Preparation and publication of state district gazetteers.",
+      "department": "Cultural Affairs Department",
+      "category": "Directorate / Commissionerate"
+    },
+    {
+      "name": "Directorate of Technical Education, Maharashtra",
+      "url": "https://dte.maharashtra.gov.in/",
+      "description": "Administration and regulation of technical education institutions.",
+      "department": "Higher and Technical Education Department",
+      "category": "Directorate / Commissionerate"
+    },
+    {
+      "name": "Directorate of Textiles, Maharashtra",
+      "url": "https://dirtexmah.gov.in/",
+      "description": "Administration and development of the textile sector.",
+      "department": "Co-operation, Marketing and Textiles Department",
+      "category": "Directorate / Commissionerate"
+    },
+    {
+      "name": "Directorate of Vocational Education and Training, Maharashtra",
+      "url": "https://www.dvet.gov.in/",
+      "description": "Vocational education, industrial training and skill development.",
+      "department": "Skills, Employment, Entrepreneurship and Innovation Department",
+      "category": "Directorate / Commissionerate"
+    },
+    {
+      "name": "Maharashtra Housing and Area Development Authority (MHADA)",
+      "url": "https://www.mhada.gov.in/",
+      "description": "Housing development, affordable housing and redevelopment programmes.",
+      "department": "Housing Department",
+      "category": "Directorate / Commissionerate"
+    },
+    {
+      "name": "Maharashtra State Excise Duty",
+      "url": "https://stateexcise.maharashtra.gov.in/",
+      "description": "Administration and regulation of excise matters in Maharashtra.",
+      "department": "Home Department",
+      "category": "Directorate / Commissionerate"
+    },
+    {
+      "name": "Maharashtra State Police",
+      "url": "https://www.mahapolice.gov.in/",
+      "description": "Statewide police administration and citizen safety services.",
+      "department": "Home Department",
+      "category": "Directorate / Commissionerate"
+    },
+    {
+      "name": "Maharashtra State Road Transport Corporation",
+      "url": "https://msrtc.maharashtra.gov.in/",
+      "description": "State public bus transport services and operations.",
+      "department": "Transport Department",
+      "category": "Directorate / Commissionerate"
+    },
+    {
+      "name": "Tribal Development Commissionerate, Maharashtra",
+      "url": null,
+      "description": "Administration of tribal development programmes and services.",
+      "department": "Tribal Development Department",
+      "category": "Directorate / Commissionerate"
+    },
+    {
+      "name": "eVikas, Tribal Development Commissionerate, Maharashtra",
+      "url": null,
+      "description": "Digital system supporting tribal-development administration.",
+      "department": "Tribal Development Department",
+      "category": "Directorate / Commissionerate"
+    },
+    {
+      "name": "City and Industrial Development Corporation of Maharashtra Limited (CIDCO)",
+      "url": "https://cidco.maharashtra.gov.in/",
+      "description": "Urban and industrial development, planning and infrastructure.",
+      "department": "Urban Development Department",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Crime Investigation Department, Maharashtra",
+      "url": "https://mahacid.gov.in/",
+      "description": "State-level criminal investigation and specialized policing.",
+      "department": "Home Department",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Directorate of Higher Education, Maharashtra",
+      "url": "https://www.dhepune.gov.in/",
+      "description": "Administration of higher education institutions and programmes.",
+      "department": "Higher and Technical Education Department",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Distric Rural Development, Ahamednagar",
+      "url": null,
+      "description": "Rural development programme administration at district level.",
+      "department": "Rural Development Department",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Food and Drug Administration, Maharashtra",
+      "url": "https://fda.maharashtra.gov.in/",
+      "description": "Regulates food safety, medicines and related products.",
+      "department": "Medical Education and Drugs Department",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Forest Development Corporation of Maharashtra Limited (FDCM)",
+      "url": "https://fdcm.nic.in/",
+      "description": "Forest development and related commercial forestry activities.",
+      "department": "Forest Department",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Government Receipt Accounting System (GRAS), Maharashtra",
+      "url": "https://gras.mahakosh.gov.in/",
+      "description": "Online government receipt and payment accounting services.",
+      "department": "Finance Department",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Haffkine Bio-Pharmaceutical Corporation Limited",
+      "url": "https://www.vaccinehaffkine.com/",
+      "description": "Manufacturing and supply of vaccines and pharmaceutical products.",
+      "department": "Medical Education and Drugs Department",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Maharashtra Agro Industries Development Corporation Ltd. (MAIDC)",
+      "url": null,
+      "description": "Agricultural inputs, agro-industry and farmer-support activities.",
+      "department": "Agriculture Department",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Maharashtra Airport Development Company Limited (MADC)",
+      "url": "https://www.madcindia.org/",
+      "description": "Airport and aviation infrastructure development.",
+      "department": "Government of Maharashtra",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Maharashtra Centre For Entrepreneurship Development (MCED)",
+      "url": "https://mced.co.in/",
+      "description": "Entrepreneurship training, development and support.",
+      "department": "Skills, Employment, Entrepreneurship and Innovation Department",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Maharashtra Coastal Zone Management Authority (MCZMA)",
+      "url": "https://mczma.gov.in/",
+      "description": "Coastal-zone regulation and environmental management.",
+      "department": "Environment and Climate Change Department",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Maharashtra Fire Services",
+      "url": "https://mahafireservice.gov.in/",
+      "description": "Fire prevention, safety and emergency-response administration.",
+      "department": "Home Department",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Maharashtra Information Technology Corporation Ltd. (MahaIT)",
+      "url": "https://mahait.org/",
+      "description": "Technology implementation and digital-government support for Maharashtra.",
+      "department": "Electronics, Information Technology and Artificial Intelligence Department",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Maharashtra Maritime Board",
+      "url": "https://mahammb.maharashtra.gov.in/",
+      "description": "Development and regulation of ports and maritime infrastructure.",
+      "department": "Ports Department",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Maharashtra Natural Gas Ltd. (MNGL)",
+      "url": "https://www.mngl.in/",
+      "description": "Natural-gas distribution and related energy services.",
+      "department": "Energy Department",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Maharashtra Pollution Control Board (MPCB)",
+      "url": "https://mpcb.gov.in/",
+      "description": "Pollution prevention, environmental regulation and monitoring.",
+      "department": "Environment and Climate Change Department",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Maharashtra Real Estate Regulatory Authority",
+      "url": "https://maharera.maharashtra.gov.in/",
+      "description": "Regulation and transparency in the real-estate sector.",
+      "department": "Housing Department",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Maharashtra Small Scale Industries Development Corporation Limited",
+      "url": null,
+      "description": "Support and development services for small-scale industries.",
+      "department": "Industries Department",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Maharashtra State AIDS Control Society (MSACS)",
+      "url": "https://mahasacs.org/",
+      "description": "HIV/AIDS prevention, treatment support and awareness programmes.",
+      "department": "Public Health Department",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Maharashtra State Agricultural Marketing Board (MSAMB)",
+      "url": "https://www.msamb.com/",
+      "description": "Agricultural marketing infrastructure and market development.",
+      "department": "Co-operation, Marketing and Textiles Department",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Maharashtra State Board of Technical Education (MSBTE)",
+      "url": "https://msbte.org.in/",
+      "description": "Technical education examinations, curriculum and academic administration.",
+      "department": "Higher and Technical Education Department",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Maharashtra State Board of Vocational Education Examination (MSBVEE)",
+      "url": null,
+      "description": "Vocational education examinations and certification.",
+      "department": "Skills, Employment, Entrepreneurship and Innovation Department",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Maharashtra State Electricity Transmission Co. Ltd.",
+      "url": "https://mahatransco.in/",
+      "description": "Electricity transmission network operation and development.",
+      "department": "Energy Department",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Maharashtra State Mining Corporation Limited (MSMC)",
+      "url": "https://msmc.gov.in/",
+      "description": "Mineral and mining-sector development and operations.",
+      "department": "Revenue Department",
+      "category": "Board / Undertaking"
+    },
+    {
+      "name": "Maharashtra Energy Development Agency (MEDA)",
+      "url": "https://www.mahaurja.maharashtra.gov.in/",
+      "description": "Renewable-energy development and energy-efficiency initiatives.",
+      "department": "Energy Department",
+      "category": "PSU / JV / Company / Society"
+    },
+    {
+      "name": "Maharashtra Small Scale Industries Development Corporation Ltd.",
+      "url": "https://mssidc.maharashtra.gov.in/",
+      "description": "Industrial development and support for small-scale enterprises.",
+      "department": "Industries Department",
+      "category": "PSU / JV / Company / Society"
+    },
+    {
+      "name": "Maharashtra State Co-operative Sugar Factories Federation Limited",
+      "url": null,
+      "description": "Federation supporting cooperative sugar factories.",
+      "department": "Co-operation Department",
+      "category": "PSU / JV / Company / Society"
+    },
+    {
+      "name": "Maharashtra Urban Infrastructure Development Company Limited",
+      "url": null,
+      "description": "Urban infrastructure development and project support.",
+      "department": "Urban Development Department",
+      "category": "PSU / JV / Company / Society"
+    },
+    {
+      "name": "Maharashtra Water Resources Regulatory Authority (MWRRA)",
+      "url": "https://mwrra.maharashtra.gov.in/",
+      "description": "Regulation of water resources and water-sector entitlements.",
+      "department": "Water Resources Department",
+      "category": "PSU / JV / Company / Society"
+    },
+    {
+      "name": "Mumbai Traffic Police",
+      "url": "https://trafficpolicemumbai.maharashtra.gov.in/",
+      "description": "Traffic regulation, road safety and traffic-related citizen services.",
+      "department": "Home Department",
+      "category": "PSU / JV / Company / Society"
+    },
+    {
+      "name": "Thane City Police",
+      "url": "https://thanepolice.gov.in/",
+      "description": "City policing and public-safety services in Thane.",
+      "department": "Home Department",
+      "category": "PSU / JV / Company / Society"
+    },
+    {
+      "name": "ARTHWAHINI - Management System for TreasuryNet",
+      "url": "https://arthwahini.mahakosh.gov.in/",
+      "description": "Treasury and financial-management information system.",
+      "department": "Finance Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Aaple Sarkar DBT Portal",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Direct Benefit Transfer and online applications for government schemes.",
+      "department": "Government of Maharashtra",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Central Goods and Services Tax Mumbai Zone",
+      "url": "https://cgstmumbai.gov.in/",
+      "description": "Central GST administration for the Mumbai zone.",
+      "department": "Central Board of Indirect Taxes and Customs",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Charitable Hospital Helpdesk, Maharashtra",
+      "url": "https://charitymedicalhelpdesk.maharashtra.gov.in/",
+      "description": "Information and assistance related to charitable-hospital services.",
+      "department": "Law and Judiciary Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Electricity Ombudsman (Mumbai)",
+      "url": "https://www.mercombudsman.org.in/",
+      "description": "Electricity consumer grievance and dispute-resolution mechanism.",
+      "department": "Maharashtra Electricity Regulatory Commission",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Farmer Scrutiny Portal, Maharashtra",
+      "url": "https://agridbtworkflow.mahaonline.gov.in/",
+      "description": "Online scrutiny and workflow for farmer-related applications.",
+      "department": "Agriculture Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "KOSHWAHINI - Information System Project",
+      "url": "https://koshwahini.mahakosh.gov.in/",
+      "description": "Financial and treasury information system.",
+      "department": "Finance Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Konkan Post Lottery System",
+      "url": "https://postlottery1.mhada.gov.in/",
+      "description": "Online system associated with MHADA housing lottery processes.",
+      "department": "Housing Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Maharashtra Apprenticeship Promotion Scheme (MAPS)",
+      "url": "https://maps.dvet.gov.in/",
+      "description": "Apprenticeship and vocational training programme.",
+      "department": "Skills, Employment, Entrepreneurship and Innovation Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Maharashtra Emergency Response System",
+      "url": "https://dial112.mahapolice.gov.in/",
+      "description": "Emergency response and assistance through the 112 system.",
+      "department": "Home Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Maharashtra Farmer Registry",
+      "url": "https://mhfr.agristack.gov.in/",
+      "description": "Digital farmer-registration and agricultural identity services.",
+      "department": "Agriculture Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Maharashtra State Eligibility Test (MH-SET)",
+      "url": "https://setexam.unipune.ac.in/",
+      "description": "Eligibility examination for Assistant Professor recruitment.",
+      "department": "Higher and Technical Education Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Maharashtra State Rural Livelihoods Mission",
+      "url": "https://www.umed.in/",
+      "description": "Rural livelihoods, self-help groups and livelihood promotion.",
+      "department": "Rural Development Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Mahavitran - Maharashtra State Electricity Distribution Company Limited",
+      "url": "https://wss.mahadiscom.in/",
+      "description": "Online electricity distribution and consumer services.",
+      "department": "Energy Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Mukhya Mantri Gram Sadak Yojana (MMGSY)",
+      "url": "https://woms.mahaonline.gov.in/",
+      "description": "Rural road development and programme management.",
+      "department": "Rural Development Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "National Health Mission, Maharashtra",
+      "url": "https://www.nrhm.maharashtra.gov.in/",
+      "description": "Public-health programmes and health-system strengthening.",
+      "department": "Public Health Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "State Common Entrance Test Cell, Maharashtra",
+      "url": "https://cetcell.mahacet.org/",
+      "description": "Common entrance examinations and admissions for professional courses.",
+      "department": "Higher and Technical Education Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Vaidhmapan, Legal Metrology Department, Maharashtra",
+      "url": "https://www.vaidhmapan.maharashtra.gov.in/",
+      "description": "Legal-metrology services and verification of weights and measures.",
+      "department": "Food, Civil Supplies and Consumer Protection Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Aadhaar enabled Public Distribution System (AePDS), Maharashtra",
+      "url": "https://mahaepos.gov.in/",
+      "description": "Electronic public-distribution and ration-service platform.",
+      "department": "Food, Civil Supplies and Consumer Protection Department",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "Aaple Sarkar Grievances Portal",
+      "url": "https://aaplesarkar.maharashtra.gov.in/",
+      "description": "Citizen grievance registration and tracking platform.",
+      "department": "Government of Maharashtra",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "Akola Police",
+      "url": "https://akolapolice.gov.in/",
+      "description": "District police information and citizen services.",
+      "department": "Home Department",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "Amravati City Police",
+      "url": "https://amravaticitypolice.gov.in/",
+      "description": "City police information and citizen services.",
+      "department": "Home Department",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "Amravati Rural Police",
+      "url": "https://amravatiruralpolice.gov.in/",
+      "description": "Rural district police information and citizen services.",
+      "department": "Home Department",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "Aurangabad Rural Police",
+      "url": null,
+      "description": "Rural police administration and citizen services.",
+      "department": "Home Department",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "Beed Police",
+      "url": "https://beedpolice.gov.in/",
+      "description": "District police information and citizen services.",
+      "department": "Home Department",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "Budget Estimation, Allocation and Monitoring System (BEAMS)",
+      "url": "https://beams.mahakosh.gov.in/",
+      "description": "Budget estimation, allocation and monitoring system.",
+      "department": "Finance Department",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "COVID-19 Updates & Advisories, Maharashtra",
+      "url": "https://arogya.maharashtra.gov.in/",
+      "description": "Public-health information and advisories portal.",
+      "department": "Public Health Department",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "Central GST & Customs, Pune Zone",
+      "url": "https://punecgstcus.gov.in/",
+      "description": "Central GST and customs administration for Pune zone.",
+      "department": "Central Board of Indirect Taxes and Customs",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "Centre of Excellence in Marathi Language Computing",
+      "url": null,
+      "description": "Initiatives and resources for Marathi-language computing.",
+      "department": "Marathi Language Department",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "Chandrapur Police",
+      "url": "https://chandrapurpolice.gov.in/",
+      "description": "District police information and citizen services.",
+      "department": "Home Department",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "Chatrapati Shivaji Maharaj Memorial",
+      "url": null,
+      "description": "Government-listed memorial information resource.",
+      "department": "Government of Maharashtra",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "Chief Conservator of Forest (Territorial), Amravati",
+      "url": null,
+      "description": "Territorial forest administration in the Amravati region.",
+      "department": "Forest Department",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "Chief Minister Employment Generation Programme, Maharashtra",
+      "url": "https://maha-cmegp.gov.in/",
+      "description": "Employment and self-employment support programme.",
+      "department": "Industries Department",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "Civil Defence, Home Guards, Maharashtra",
+      "url": "https://maharashtracdhg.gov.in/",
+      "description": "Civil defence and home-guard services and administration.",
+      "department": "Home Department",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "Divisional Commissioner Office Amravati",
+      "url": "https://amravatidivision.gov.in/",
+      "description": "Divisional administration and government information for Amravati division.",
+      "department": "General Administration / Divisional Administration",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "ENVIS Centre, Maharashtra",
+      "url": "https://mahenvis.nic.in/",
+      "description": "Environmental information and knowledge resources.",
+      "department": "Environment and Climate Change Department",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "Employment Guarantee Scheme, Planning Department, Maharashtra",
+      "url": "https://mahaegs.maharashtra.gov.in/",
+      "description": "Employment-guarantee programme information and administration.",
+      "department": "Planning Department",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "Gadchiroli Police",
+      "url": "https://gadchirolipolice.gov.in/",
+      "description": "District police information and citizen services.",
+      "department": "Home Department",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "Gondia Police",
+      "url": "https://gondiapolice.gov.in/",
+      "description": "District police information and citizen services.",
+      "department": "Home Department",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "Grievances Redressal Portal, Maharashtra",
+      "url": "https://grievances.maharashtra.gov.in/",
+      "description": "Government grievance registration and tracking.",
+      "department": "Government of Maharashtra",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "Hingoli Police",
+      "url": "https://hingolipolice.gov.in/",
+      "description": "District police information and citizen services.",
+      "department": "Home Department",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "Inspector General of Police, Amravati Range",
+      "url": null,
+      "description": "Police administration for the Amravati range.",
+      "department": "Home Department",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "Integrated Child Development Services Scheme, Maharashtra",
+      "url": "https://icds.gov.in/",
+      "description": "Child development, nutrition and early-childhood services.",
+      "department": "Women and Child Development Department",
+      "category": "Other Government Portal"
+    },
+    {
+      "name": "Ahilyanagar District",
+      "url": "https://ahmednagar.nic.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    },
+    {
+      "name": "Akola District",
+      "url": "https://akola.gov.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    },
+    {
+      "name": "Amravati District",
+      "url": "https://amravati.gov.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    },
+    {
+      "name": "Beed District",
+      "url": "https://beed.gov.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    },
+    {
+      "name": "Bhandara District",
+      "url": "https://bhandara.gov.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    },
+    {
+      "name": "Buldhana District",
+      "url": "https://buldhana.nic.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    },
+    {
+      "name": "Chandrapur District",
+      "url": "https://chanda.nic.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    },
+    {
+      "name": "Chhatrapati Sambhajinagar District",
+      "url": "https://aurangabad.gov.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    },
+    {
+      "name": "Dharashiv District",
+      "url": "https://osmanabad.gov.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    },
+    {
+      "name": "Dhule District",
+      "url": "https://dhule.gov.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    },
+    {
+      "name": "Gadchiroli District",
+      "url": "https://gadchiroli.gov.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    },
+    {
+      "name": "Gondia District",
+      "url": "https://gondia.gov.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    },
+    {
+      "name": "Hingoli District",
+      "url": "https://hingoli.nic.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    },
+    {
+      "name": "Jalgaon District",
+      "url": "https://jalgaon.gov.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    },
+    {
+      "name": "Jalna District",
+      "url": "https://jalna.gov.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    },
+    {
+      "name": "Kolhapur District",
+      "url": "https://kolhapur.gov.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    },
+    {
+      "name": "Latur District",
+      "url": "https://latur.gov.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    },
+    {
+      "name": "Mumbai City District",
+      "url": "https://mumbaicity.gov.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    },
+    {
+      "name": "Mumbai Suburban District",
+      "url": "https://mumbaisuburban.gov.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    },
+    {
+      "name": "Nagpur District",
+      "url": "https://nagpur.gov.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    },
+    {
+      "name": "Nanded District",
+      "url": "https://nanded.gov.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    },
+    {
+      "name": "Nandurbar District",
+      "url": "https://nandurbar.gov.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    },
+    {
+      "name": "Nashik District",
+      "url": "https://nashik.gov.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    },
+    {
+      "name": "Palghar District",
+      "url": "https://palghar.gov.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    },
+    {
+      "name": "Parbhani District",
+      "url": "https://parbhani.gov.in/",
+      "description": "Official district administration portal.",
+      "department": "District Administration",
+      "category": "District Portal"
+    }
+  ]
+}
