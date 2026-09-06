@@ -53,7 +53,7 @@ export default function SiteFooter() {
       </div>)}
     </div>
     <div className="footer-bottom">
-      <span>Copyright 2025 @Anti-Gravity. All rights reserved.</span>
+      <span>Copyright 2026 @Anti-Gravity. All rights reserved.</span>
       <div><Link href="/">Privacy policy</Link><Link href="/">Terms of service</Link><Link href="/">Accessibility</Link></div>
     </div>
   </footer>;
