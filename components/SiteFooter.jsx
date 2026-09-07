@@ -37,7 +37,7 @@ export default function SiteFooter() {
   return <footer className="site-footer">
     <div className="footer-grid">
       <div className="footer-intro">
-        <Link className="footer-brand" href="/">@Anti-Gravity</Link>
+        <Link className="footer-brand" href="/">@Anti-Graviti</Link>
         <p><LocalizedText id="footerIntro" /></p>
         <div className="footer-socials" aria-label="Social links">
           <a href="https://github.com/" target="_blank" rel="noreferrer" aria-label="GitHub">GH</a>
@@ -53,7 +53,7 @@ export default function SiteFooter() {
       </div>)}
     </div>
     <div className="footer-bottom">
-      <span>Copyright 2026 @Anti-Gravity. All rights reserved.</span>
+      <span>Copyright 2026 @Anti-Graviti. All rights reserved.</span>
       <div><Link href="/">Privacy policy</Link><Link href="/">Terms of service</Link><Link href="/">Accessibility</Link></div>
     </div>
   </footer>;
