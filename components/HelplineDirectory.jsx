@@ -3,14 +3,14 @@ import { useState } from 'react';
 import { useLanguage } from '@/components/LanguageProvider';
 
 const helplines = [
-  { id: 'helplineEmergency', number: '112 / 100', tone: 'urgent', icon: '!', description: 'Quick response services for police, fire, women in distress and medical emergencies.', features: ['24x7 effective emergency response services.', 'Request help through voice call, SOS, SMS, email, web request or panic button.', 'Automatic location identification of the caller or victim.', 'Dynamic response from the nearest emergency response vehicle.', 'Live tracking of emergency response vehicles.', 'Emergency service coordination from a central control centre.'] },
-  { id: 'helplinePolice', number: '112', tone: 'blue', icon: 'P', description: 'Immediate police assistance for threats, crime, accidents and public safety concerns.', features: ['Available around the clock for urgent police assistance.', 'Fast response for incidents reported from anywhere in Maharashtra.', 'Share your location and essential incident details with the control room.'] },
-  { id: 'helplineFire', number: '101', tone: 'orange', icon: 'F', description: 'Contact the fire and rescue service for fires, accidents and other hazardous situations.', features: ['24x7 fire and rescue response.', 'Share the incident location to help teams reach you quickly.', 'Follow the operator instructions while help is on the way.'] },
-  { id: 'helplineAmbulance', number: '108', tone: 'red', icon: '+', description: 'Free emergency ambulance support for patients who need immediate medical transport.', features: ['Pre-hospital care through life-support ambulances.', 'Emergency transport to the nearest suitable hospital.', 'Support for accidents, critical illness, pregnancy and natural disasters.'] },
-  { id: 'helplineWomen', number: '1091', tone: 'violet', icon: 'W', description: 'Dedicated support for women facing distress, harassment or an unsafe situation.', features: ['Confidential assistance for women in distress.', 'Connects callers with the appropriate emergency response team.', 'Available for urgent safety support.'] },
-  { id: 'helplineChild', number: '1098', tone: 'green', icon: 'C', description: 'Child helpline support for children who need care, protection or immediate assistance.', features: ['Support for children in difficult or unsafe situations.', 'Connects children with care and protection services.', 'Available for urgent intervention and guidance.'] },
-  { id: 'helplineSupport', number: '181', tone: 'teal', icon: 'S', description: 'Women support services for counselling, information and help with related government services.', features: ['Guidance and support for women across Maharashtra.', 'Helps connect callers with relevant departments and services.', 'Accessible support for urgent and non-urgent concerns.'] },
-  { id: 'helplineDisaster', number: '1077', tone: 'gold', icon: 'D', description: 'District disaster control room assistance during floods, storms and other emergencies.', features: ['Coordinate assistance during natural and man-made disasters.', 'Report incidents and request local emergency support.', 'Connect with district-level disaster management authorities.'] }
+  { id: 'helplineEmergency', number: '112 / 100', tone: 'urgent', icon: '!', descriptionKey: 'emergencyDescription', featureKeys: ['emergencyFeature1', 'emergencyFeature2', 'emergencyFeature3', 'emergencyFeature4', 'emergencyFeature5', 'emergencyFeature6'] },
+  { id: 'helplinePolice', number: '112', tone: 'blue', icon: 'P', descriptionKey: 'policeDescription', featureKeys: ['policeFeature1', 'policeFeature2', 'policeFeature3'] },
+  { id: 'helplineFire', number: '101', tone: 'orange', icon: 'F', descriptionKey: 'fireDescription', featureKeys: ['fireFeature1', 'fireFeature2', 'fireFeature3'] },
+  { id: 'helplineAmbulance', number: '108', tone: 'red', icon: '+', descriptionKey: 'ambulanceDescription', featureKeys: ['ambulanceFeature1', 'ambulanceFeature2', 'ambulanceFeature3'] },
+  { id: 'helplineWomen', number: '1091', tone: 'violet', icon: 'W', descriptionKey: 'womenDescription', featureKeys: ['womenFeature1', 'womenFeature2', 'womenFeature3'] },
+  { id: 'helplineChild', number: '1098', tone: 'green', icon: 'C', descriptionKey: 'childDescription', featureKeys: ['childFeature1', 'childFeature2', 'childFeature3'] },
+  { id: 'helplineSupport', number: '181', tone: 'teal', icon: 'S', descriptionKey: 'supportDescription', featureKeys: ['supportFeature1', 'supportFeature2', 'supportFeature3'] },
+  { id: 'helplineDisaster', number: '1077', tone: 'gold', icon: 'D', descriptionKey: 'disasterDescription', featureKeys: ['disasterFeature1', 'disasterFeature2', 'disasterFeature3'] }
 ];
 
 export default function HelplineDirectory() {
@@ -30,7 +30,7 @@ export default function HelplineDirectory() {
     </div>
     <article className={`helpline-detail ${selected.tone}`} role="tabpanel">
       <div className="helpline-contact-card"><div className="helpline-detail-icon">{selected.icon}</div><p>{t(selected.id)}</p><strong>{selected.number}</strong><span>{t('forEmergency')}</span><a className="helpline-call-button" href={`tel:${selected.number.replace(/\s\/\s/g, ',')}`}>{t('callNow')}</a></div>
-      <div className="helpline-description"><p>{selected.description}</p><h3>{t('features')}</h3><ul>{selected.features.map((feature) => <li key={feature}>{feature}</li>)}</ul></div>
+      <div className="helpline-description"><p>{t(selected.descriptionKey)}</p><h3>{t('features')}</h3><ul>{selected.featureKeys.map((feature) => <li key={feature}>{t(feature)}</li>)}</ul></div>
     </article>
   </section>;
 }

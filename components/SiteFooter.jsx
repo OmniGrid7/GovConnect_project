@@ -1,5 +1,7 @@
+'use client';
 import Link from 'next/link';
 import LocalizedText from '@/components/LocalizedText';
+import { useLanguage } from '@/components/LanguageProvider';
 
 const navigation = [
   {
@@ -34,6 +36,7 @@ function FooterLink({ label, href }) {
 }
 
 export default function SiteFooter() {
+  const { t } = useLanguage();
   return <footer className="site-footer">
     <div className="footer-grid">
       <div className="footer-intro">
@@ -48,8 +51,8 @@ export default function SiteFooter() {
         <p className="footer-credit">Built for Maharashtra citizens</p>
       </div>
       {navigation.map((group) => <div className="footer-links" key={group.title}>
-        <h2>{group.title}</h2>
-        {group.links.map(([label, href]) => <FooterLink key={label} label={label} href={href} />)}
+        <h2>{t(`footer_${group.title.toLowerCase()}`, { defaultValue: group.title })}</h2>
+        {group.links.map(([label, href]) => <FooterLink key={label} label={t(`footer_${label.toLowerCase().replace(/[^a-z0-9]+/g, '_')}`, { defaultValue: label })} href={href} />)}
       </div>)}
     </div>
     <div className="footer-bottom">

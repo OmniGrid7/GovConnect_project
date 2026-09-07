@@ -1,18 +1,16 @@
 'use client';
 import { createContext, useContext, useEffect, useState } from 'react';
-import { languages, translate } from '@/lib/translations';
+import { useTranslation } from 'react-i18next';
+import i18n from '@/lib/i18n';
 
 const LanguageContext = createContext(null);
 
 export function LanguageProvider({ children }) {
-  const [language, setLanguage] = useState('en');
   const [fontScale, setFontScale] = useState('normal');
+  const { t } = useTranslation('common');
+  const language = i18n.resolvedLanguage || i18n.language || 'en';
+  const setLanguage = (nextLanguage) => i18n.changeLanguage(nextLanguage);
   useEffect(() => {
-    const savedLanguage = window.localStorage.getItem('govconnect-language');
-    if (languages.includes(savedLanguage)) setLanguage(savedLanguage);
-  }, []);
-  useEffect(() => {
-    window.localStorage.setItem('govconnect-language', language);
     document.documentElement.lang = language;
   }, [language]);
   useEffect(() => {
@@ -23,7 +21,7 @@ export function LanguageProvider({ children }) {
     window.localStorage.setItem('govconnect-font-scale', fontScale);
     document.documentElement.dataset.fontScale = fontScale;
   }, [fontScale]);
-  return <LanguageContext.Provider value={{ language, setLanguage, fontScale, setFontScale, t: (key) => translate(language, key) }}>{children}</LanguageContext.Provider>;
+  return <LanguageContext.Provider value={{ language, setLanguage, fontScale, setFontScale, t }}>{children}</LanguageContext.Provider>;
 }
 
 export function useLanguage() {
