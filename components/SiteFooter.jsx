@@ -8,7 +8,7 @@ const navigation = [
     title: 'Explore',
     links: [
       ['Departments', '/departments'],
-      ['Schemes', '/categories/scheme-programme-mission-application'],
+      ['Schemes', '/categories/scheme-and-programme-and-mission-and-application'],
       ['District portals', '/categories/district-portal'],
     ],
   },
