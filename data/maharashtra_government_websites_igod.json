@@ -1168,6 +1168,433 @@
       "description": "Official district administration portal.",
       "department": "District Administration",
       "category": "District Portal"
+    },
+    {
+      "name": "Government of India Post-Matric Scholarship",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Post-matric scholarship scheme for eligible SC/ST/OBC students in Maharashtra.",
+      "department": "Social Justice and Special Assistance Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Post-Matric Tuition Fee and Examination Fee (Freeship)",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Tuition fee and examination fee reimbursement for post-matric students.",
+      "department": "Social Justice and Special Assistance Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Maintenance Allowance for student Studying in professional courses",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Financial maintenance allowance for students pursuing professional courses.",
+      "department": "Social Justice and Special Assistance Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Rajarshri Chhatrapati Shahu Maharaj Merit Scholarship",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Merit scholarship for meritorious students pursuing higher education.",
+      "department": "Social Justice and Special Assistance Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Post-Matric Scholarship for persons with disability",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Specialized post-matric scholarship support for students with disabilities.",
+      "department": "Social Justice and Special Assistance Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Vocational Training Fee reimbursement for the students belonging to Scheduled Caste category Students",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Reimbursement of vocational training fees for Scheduled Caste category students.",
+      "department": "Social Justice and Special Assistance Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Financial assistance and freeship scheme for economically backward class students.",
+      "department": "Higher and Technical Education Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Assistance to Meritorious Students scholarship - Junior Level",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Financial scholarship support for meritorious students at the junior college level.",
+      "department": "Higher and Technical Education Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Education Concession to the Children of Ex-Servicemen",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Educational fee concessions and support for children of ex-servicemen.",
+      "department": "Higher and Technical Education Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Eklavya Scholarship",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Postgraduate scholarship for meritorious students completing degree courses.",
+      "department": "Higher and Technical Education Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "State Government Open Merit Scholarship",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Open merit scholarship awarded by the state government for higher education.",
+      "department": "Higher and Technical Education Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Scholarship to Meritorious students possessing Mathematics/Physics",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Specialized scholarship for high-performing students in Mathematics and Physics.",
+      "department": "Higher and Technical Education Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Government Vidyaniketan Scholarship",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Merit scholarship for students passing out from Government Vidyaniketan institutions.",
+      "department": "Higher and Technical Education Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "State Government Daxshina Adhichatra Scholarship",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "State government dakshina scholarship for research and post-graduate studies.",
+      "department": "Higher and Technical Education Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Government Research Adhichatra",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Research fellowship and scholarship support for post-graduate research scholars.",
+      "department": "Higher and Technical Education Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Education Concession to the Children of Freedom Fighter",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Educational fee concession for the children and descendants of freedom fighters.",
+      "department": "Higher and Technical Education Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Jawaharlal Nehru University Scholarship",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "State financial assistance for Maharashtra students studying at JNU.",
+      "department": "Higher and Technical Education Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Assistance to Meritorious Students scholarship - Senior Level",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Scholarship assistance for top-performing students at the senior degree level.",
+      "department": "Higher and Technical Education Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DHE)",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Hostel maintenance allowance scheme for students of economically weaker sections.",
+      "department": "Higher and Technical Education Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Post Matric Scholarship to VJNT Students",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Post-matric educational scholarship for Vimukta Jati and Nomadic Tribes students.",
+      "department": "VJNT, SBC and OBC Welfare Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Tuition Fees and Examination Fees to VJNT Students",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Reimbursement of tuition and examination fees for VJNT category students.",
+      "department": "VJNT, SBC and OBC Welfare Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Payment of Maintenance Allowance to VJNT and SBC Students Studying in Professional Courses and Living in Hostel Attached to Professional Colleges",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Hostel maintenance allowance for VJNT and SBC students in professional courses.",
+      "department": "VJNT, SBC and OBC Welfare Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Rajarshi Chhatrapati Shahu Maharaj Merit Scholarship for students studying in 11th & 12th standard of VJNT & SBC category",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Merit scholarship scheme for 11th and 12th standard VJNT and SBC students.",
+      "department": "VJNT, SBC and OBC Welfare Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Post Matric Scholarship to OBC Students",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Post-matric scholarship scheme for Other Backward Classes (OBC) students.",
+      "department": "VJNT, SBC and OBC Welfare Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Post Matric Scholarship to SBC Students",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Post-matric scholarship for Special Backward Class (SBC) category students.",
+      "department": "VJNT, SBC and OBC Welfare Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Tuition Fees and Examination Fees to OBC Students",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Tuition fee and examination fee waiver/reimbursement for OBC category students.",
+      "department": "VJNT, SBC and OBC Welfare Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Tuition Fees and Examination Fees to SBC Students",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Tuition fee and examination fee reimbursement for Special Backward Class students.",
+      "department": "VJNT, SBC and OBC Welfare Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Vocational Training Fee reimbursement for the OBC, SEBC, VJNT & SBC Welfare Department students",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Vocational course fee reimbursement for OBC, SEBC, VJNT, and SBC students.",
+      "department": "VJNT, SBC and OBC Welfare Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "State Minority Scholarship Part II (DHE)",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "State minority scholarship for students pursuing higher education courses.",
+      "department": "Minority Development Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Scholarship for students of minority communities pursuing Higher and Professional courses (DTE)",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Technical education scholarship for minority community students.",
+      "department": "Higher and Technical Education Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Scholarship for students of minority communities pursuing Higher and Professional courses (DMER)",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Medical education scholarship for students of minority communities.",
+      "department": "Medical Education and Drugs Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Scholarship for students of minority communities pursuing Higher and Professional courses of MCAER Department",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Agricultural education scholarship for minority students under MCAER.",
+      "department": "Agriculture Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Vocational Training Fee reimbursement for the students belonging to Scheduled Tribe Category",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Vocational training fee reimbursement for Scheduled Tribe (ST) students.",
+      "department": "Tribal Development Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DTE)",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Hostel stipend scheme for technical education students from farming/laborer families.",
+      "department": "Higher and Technical Education Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna (EBC) - Agriculture Department",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "EBC tuition fee assistance for students in agricultural education.",
+      "department": "Agriculture Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (AGR)",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Hostel maintenance allowance scheme for agricultural course students.",
+      "department": "Agriculture Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna (EBC) - MAFSU",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Freeship scheme for EBC students studying under MAFSU veterinary university.",
+      "department": "Animal Husbandry Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (MAFSU)",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Hostel allowance scheme for students in MAFSU veterinary/fisheries colleges.",
+      "department": "Animal Husbandry Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Stipend of Rs. 500 per month for trainees in Craftsman Training Scheme in Govt ITI",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Monthly stipend support for trainees enrolled in Government ITI Craftsman courses.",
+      "department": "Skills, Employment, Entrepreneurship and Innovation Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Maintenance allowance for students studying in Sainiki School",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Maintenance allowance for eligible Maharashtra students studying in Sainiki Schools.",
+      "department": "School Education and Sports Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Savitribai Phule Scholarship for Scheduled Caste girl's students studying in 5th to 10th STD",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Pre-matric educational scholarship for SC girl students from 5th to 10th standard.",
+      "department": "Social Justice and Special Assistance Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Government of India Scholarship for 9th and 10th",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Centrally sponsored pre-matric scholarship for 9th and 10th standard students.",
+      "department": "Social Justice and Special Assistance Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Maharshi Vithhal Ramaji Shinde Tuition Fees and Examination Fees to Backward Class students studying in High Schools",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "High school fee reimbursement for backward class school students.",
+      "department": "Social Justice and Special Assistance Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Prematric Merit Scholarship for Students studying in Secondary Class (Std. Vth to Xth)",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Pre-matric merit scholarship for secondary school students from class 5 to 10.",
+      "department": "School Education and Sports Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Pre-matric Scholarships to Children of those who are engaged in unclean occupation",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Pre-matric educational assistance for children of parents in unclean occupations.",
+      "department": "Social Justice and Special Assistance Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Pre-Matric Scholarship Scheme for the Children of Parents/Guardians Engaged in Unclean and Hazardous Occupation",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "description": "Financial assistance for education of children of workers in hazardous occupations.",
+      "department": "Social Justice and Special Assistance Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Birsa Munda Krishi Kranti Yojana (for ST tribal farmers - Tribal Sub Plan)",
+      "url": "https://krishi.maharashtra.gov.in/",
+      "description": "Irrigation and farming support scheme for Scheduled Tribe tribal farmers.",
+      "department": "Tribal Development Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "National Horticulture Mission (Mission for Integrated Development of Horticulture)",
+      "url": "https://krishi.maharashtra.gov.in/",
+      "description": "Horticulture development, greenhouse, and orchard assistance mission.",
+      "department": "Agriculture Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Pradhan Mantri Krishi Sinchayee Yojana - Per Drop More Crop (Micro-irrigation Component)",
+      "url": "https://krishi.maharashtra.gov.in/",
+      "description": "Subsidy and support for drip and sprinkler micro-irrigation systems.",
+      "department": "Agriculture Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Dr. Babasaheb Ambedkar Krushi Swavalamban Yojana",
+      "url": "https://krishi.maharashtra.gov.in/",
+      "description": "Irrigation equipment and well subsidy scheme for SC/Navbouddha farmers.",
+      "department": "Agriculture Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "State Agriculture Mechanization Scheme",
+      "url": "https://krishi.maharashtra.gov.in/",
+      "description": "Financial assistance for purchasing tractors, implements, and farm machinery.",
+      "department": "Agriculture Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Namo Shetkari Maha Sanman Nidhi",
+      "url": "https://nsmny.maharashtra.gov.in/",
+      "description": "Annual direct income support scheme for farmers in Maharashtra.",
+      "department": "Agriculture Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Mukhyamantri Saur Krishi Pump Yojana (Solar Agriculture Pump Scheme)",
+      "url": "https://www.mahadiscom.in/solar/",
+      "description": "Subsidized solar agricultural pumps for off-grid farmers in Maharashtra.",
+      "department": "Energy Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Mukhyamantri Majhi Ladki Bahin Yojana",
+      "url": "https://ladkibahin.maharashtra.gov.in/",
+      "description": "Monthly financial assistance scheme empowering eligible women across Maharashtra.",
+      "department": "Women and Child Development Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Mahatma Jyotirao Phule Jan Arogya Yojana (MJPJAY)",
+      "url": "https://www.jeevandayee.gov.in/",
+      "description": "Flagship cashless health insurance scheme providing hospitalization cover.",
+      "department": "Public Health Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Sharad Pawar Gram Samrudhi Yojana",
+      "url": "https://egovernance.mahaonline.gov.in/",
+      "description": "Rural livelihood and farm infrastructure development scheme under MGNREGA.",
+      "department": "Rural Development Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Manodhairya Yojana",
+      "url": "https://womenchild.maharashtra.gov.in/",
+      "description": "Financial support and rehabilitation for victims of violence and distress.",
+      "department": "Women and Child Development Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Maharashtra Baby Care Kit Scheme",
+      "url": "https://womenchild.maharashtra.gov.in/",
+      "description": "Essential baby care product kits for newborn children in government hospitals.",
+      "department": "Women and Child Development Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Mahasamruddhi Mahila Sashaktikaran Yojana",
+      "url": "https://umed.in/",
+      "description": "Empowerment and self-reliance initiatives for rural women self-help groups.",
+      "department": "Rural Development Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Sanjay Gandhi Niradhar Anudan Yojana",
+      "url": "https://mahasharaddbt.maharashtra.gov.in/",
+      "description": "Financial pension support for destitute persons, disabled individuals, and widows.",
+      "department": "Social Justice and Special Assistance Department",
+      "category": "Scheme / Programme / Mission / Application"
+    },
+    {
+      "name": "Mukhyamantri Yuva Karya Prashikshan Yojana (Chief Minister's Apprenticeship Scheme / Ladka Bhau Yojana)",
+      "url": "https://amakhsam.mahaspace.com/",
+      "description": "OJT apprenticeship stipend and skill training scheme for youth in Maharashtra.",
+      "department": "Skills, Employment, Entrepreneurship and Innovation Department",
+      "category": "Scheme / Programme / Mission / Application"
     }
   ]
 }
